@@ -7,4 +7,4 @@
 - ???? 
 - ???? 
 - 
-<img src="https://github.com/gitxss/gitxss/blob/main/img/img.png" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
+<img src="https://github.com/gitxss/gitxss/blob/main/img/img.png" alt="logo" height="790" width="1255" align="center" style="margin: auto; margin-bottom: 20px;" />
